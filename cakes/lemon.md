@@ -10,15 +10,15 @@ Cake:
 - 4 teaspoons baking powder
 - 1¼ cups caster sugar
 - 150g butter
-- ⅓ - ¼ cup oil
+- ⅓ cup oil
 - 4 eggs
-- 1 large lemon's juice
+- 2 large lemon's juice
 - 4 large lemons' rind
 
-Icing:
+Icing/glazing:
 
 - 1 lemon's juice
-- icing sugar
+- icing sugar (optional)
 
 ## Method
 
