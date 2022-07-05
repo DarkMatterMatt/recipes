@@ -6,21 +6,21 @@ Modified from [langbein.com/recipes/the-ultimate-ginger-crunch](https://www.lang
 
 Base:
 
-- 150g butter
+- 125g butter
 - ½ cup caster sugar
 - ¼ cup golden syrup
 - 1½ cups rolled oats
 - ¾ cup flour
 - 1 tsp baking powder
 - ½ cup desiccated coconut
-- 2 tsp ground ginger
+- 1 Tbsp ground ginger
 
 Topping:
 
-- 100g butter
+- 75g butter
 - 3 Tbsp golden syrup
 - 2 cups icing sugar
-- 4 tsp ground ginger
+- 2 Tbsp ground ginger
 - 3 Tbsp chopped crystallised ginger
 
 ## Method
