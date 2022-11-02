@@ -4,13 +4,14 @@ Modified from [loveandlemons.com/brownies-recipe](https://www.loveandlemons.com/
 
 ## Ingredients
 
-- 1¼ cups flour
-- 1½ cups caster sugar
+- 1½ cups flour
+- 1 tsp baking powder
+- 1¼ cups caster sugar
 - ½ cup icing sugar
 - 1 cup cocoa powder
 - ¾ cup chocolate chips (dark/white/mix)
 - 1 tsp salt
-- 1 tsp vanilla essence
+- 2 tsp vanilla essence
 - ¾ cup oil
 - 3 Tbsp water
 - 3 eggs
